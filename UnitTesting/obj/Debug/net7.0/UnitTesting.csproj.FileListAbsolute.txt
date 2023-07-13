@@ -1,0 +1,15 @@
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\bin\Debug\net7.0\UnitTesting.exe
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\bin\Debug\net7.0\UnitTesting.deps.json
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\bin\Debug\net7.0\UnitTesting.runtimeconfig.json
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\bin\Debug\net7.0\UnitTesting.dll
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\bin\Debug\net7.0\UnitTesting.pdb
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.csproj.AssemblyReference.cache
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.AssemblyInfo.cs
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.dll
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\refint\UnitTesting.dll
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.pdb
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\UnitTesting.genruntimeconfig.cache
+C:\Users\jayde\Documents\GitHub\Lab2UnitTesting\UnitTesting\obj\Debug\net7.0\ref\UnitTesting.dll
